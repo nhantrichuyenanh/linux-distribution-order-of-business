@@ -19,7 +19,7 @@
 
 ---
 
-All of these can be fixed with third-party tools. If one day they don't work anymore, I'll jump ship and write a guide for this folder (or more preferably on GitHub).  
+All of these can be fixed with third-party tools. If one day they don't work anymore, I'll jump ship and write a guide for this repo.  
 **Windows enshittification is real and it's happening as I write this.**  
 The only real downside of Linux distros as a long-time Windows user is learning and getting used to using Linux, such as:
 
