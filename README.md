@@ -4,7 +4,7 @@
 
 ---
 
-## Major downsides of Windows 11
+**Major downsides of Windows 11:**
 - forced updates
 - automatically (re)enable/install telemetry, bloatware, etc... after update installation  
 - bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
@@ -13,7 +13,7 @@
 - limited UI customization and dark mode inconsistency in legacy menu like Control Panel and File Explorer pop-ups  
 - not completely free, requiring product key  
 
-## Minor downsides of Windows 11
+**Minor downsides of Windows 11:**
 - unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
 - legacy components like Phone and Modem (from Windows 95/98), Windows Problem Reporting, and XP-era icons pulled from Shell32.dll  
 - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
