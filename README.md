@@ -1,4 +1,4 @@
-# linux-distribution-order-of-business
+# Linux distribution Order of Business
 
 ## Major downsides of Windows 11
 
