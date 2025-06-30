@@ -1,4 +1,7 @@
 # Linux distribution Order of Business
+When push comes to shove, I'm going to migrate to GNU/Linux.
+
+---
 
 ## Major downsides of Windows 11
 - forced updates
