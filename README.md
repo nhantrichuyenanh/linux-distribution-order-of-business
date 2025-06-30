@@ -1,5 +1,5 @@
 # Linux distribution Order of Business
-When push comes to shove, I'm going to migrate to GNU/Linux.
+Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
 
 ---
 
