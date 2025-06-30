@@ -1,5 +1,6 @@
 # Linux distribution Order of Business
-Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
+> [!NOTE]
+> Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
 
 ---
 
