@@ -13,7 +13,7 @@
 - unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
 - legacy components like Phone and Modem (from Windows 95/98), Windows Problem Reporting, and XP-era icons pulled from Shell32.dll  
 - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
-- feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
+- feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
 
 ---
 
