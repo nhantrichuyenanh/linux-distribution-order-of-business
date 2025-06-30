@@ -33,11 +33,11 @@ Here're some websites to get started:
 
 ---
 
-P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**. It took only time, patience, and willpower.
+P.S. I successfully installed <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-Installed-1793D1?style=for-the-badge&logo=arch-linux"> on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**. It took only time, patience, and willpower.
 
 Optional badges
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-ready-00b16a?style=for-the-badge&logo=linux">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-Installed-1793D1?style=for-the-badge&logo=arch-linux">
+  
   <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-KDE_Plasma-6C27B3?style=for-the-badge&logo=endeavouros">
 </p>
