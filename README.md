@@ -28,8 +28,8 @@ All of these can be fixed with third-party tools. If one day they don't work any
 - locating and/or installing and learning the various system and admin tools  
 
 Here're some websites to get started:
-- **Linux for Beginners**: [christitus.com/linux-for-beginners](https://christitus.com/linux-for-beginners)  
-- **Windows to Linux for Powerusers**: [christitus.com/windows-to-linux](https://christitus.com/windows-to-linux)  
+- [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
+- [Windows to Linux for Powerusers](https://christitus.com/windows-to-linux "Chris Titus Tech")
 
 ---
 
