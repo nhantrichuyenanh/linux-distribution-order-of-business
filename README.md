@@ -6,7 +6,7 @@
 
 **Major downsides of Windows 11:**
 - forced updates
-- automatically (re)enable/install telemetry, bloatware, etc... after update installation  
+- automatically reenable telemetry, reinstall bloatware, be less stable and more buggy, etc... after update installation  
 - bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
 - telemetry and spyware kicks in as soon as you connect to the internet  
 - resource hungry even at idle state  
