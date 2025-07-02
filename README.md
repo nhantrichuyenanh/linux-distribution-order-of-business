@@ -25,7 +25,7 @@ All of these can be fixed with third-party tools. If one day they don't work any
 - navigating desktop environments
 - understanding concepts like package managers and filesystem hierarchy
 - common activities like installing/uninstalling apps and updating system via the terminal emulator
-- learning various system and admin tools that comes preinstalled or needed to be installed
+- learning system and admin tools that comes preinstalled or needed to be installed
 
 Here're some websites to get started:
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
