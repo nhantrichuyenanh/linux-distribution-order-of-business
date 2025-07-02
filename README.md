@@ -22,10 +22,10 @@
 ---
 
 All of these can be fixed with third-party tools. If one day they don't work anymore, I'll jump ship and write a guide for this repo. **Windows enshittification is real and it's happening as I write this.** The only real downside of GNU/Linux from a long-time Windows user's perspective is learning and getting used to using Linux, such as:
-- navigating desktop environments  
-- understanding concepts like package managers and filesystem hierarchy  
-- common activities like installing/uninstalling apps and updating system  
-- locating and/or installing and learning the various system and admin tools  
+- navigating desktop environments
+- understanding concepts like package managers and filesystem hierarchy
+- common activities like installing/uninstalling apps and updating system via the terminal emulator
+- learning various system and admin tools that comes preinstalled or needed to be installed
 
 Here're some websites to get started:
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
