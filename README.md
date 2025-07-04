@@ -3,7 +3,7 @@
 > Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
 
 ---
-## Windows 11
+## [Windows 11](https://github.com/nhantrichuyenanh/win-11-ofb "nhantrichuyenanh")
 It's for everyone, from the casual home user to the office user to the competitive gamer to an IT admin. So everyone's experience using Windows 11 is relatively the same. In addition, many corporations use it, so it has to be backward compatible with old software. Because Windows 11 has to accommodate many needs, it's often unstable and buggy. So it's no surprise Windows is known for having its fair share of downsides:
 - **Major** <sup>negotiable</sup>
   - forced updates
@@ -19,11 +19,11 @@ It's for everyone, from the casual home user to the office user to the competiti
   - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
   - feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
 
+All of these drawbacks can be fixed with third-party tools.
+
 ---
 
-All of these can be fixed with third-party tools. If one day they don't work anymore, I'll jump ship and write a guide for this repo. **Windows enshittification is real and it's happening as I write this.**
-
-The only real downside of GNU/Linux from a long-time Windows user's perspective is getting used to using Linux, such as:
+Meanwhile, some distros are for newly migrated users from Windows, some for competitive gamers, some for power users, each with different desktop environments. So everyone's experience using GNU/Linux is vastly different. In addition, many corporations use it for their servers, so it has to be lightweight. Because GNU/Linux (Unix-like) is extremely diverse and fundamentally different from Windows (MS-DOS), it can be challenging to fully embrace it, such as:
 - navigating desktop environments
 - understanding concepts like package managers and filesystem hierarchy
 - doing common activities like installing/uninstalling apps and updating system via the terminal emulator
