@@ -39,6 +39,7 @@ Meanwhile, some distros are for newly migrated users from Windows, some for comp
   - installing distro, configuring, setting up, and installing software takes up so much time, effort, patience and willpower
   - all the hotkeys, directory structure, system applications, OS security and GUI on Linux are radically different to Windows
   - I don't want to deal with driver issues on Linux, which is so time-consuming to diagnose and fix
+  - Windows 11 is fixable, so why bother switching to GNU/Linux in the first place?
 
 Here're some websites to get started:
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
