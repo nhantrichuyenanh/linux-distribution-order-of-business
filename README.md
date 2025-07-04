@@ -13,7 +13,8 @@ So it's no surprise Windows is known for having its fair share of downsides:
   - bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
   - telemetry and spyware kicks in as soon as you connect to the internet  
   - resource hungry even at idle state  
-  - limited UI customization and dark mode inconsistency in legacy menu like Control Panel and File Explorer pop-ups  
+  - limited UI customization
+  - dark mode inconsistency in legacy menus like Control Panel and File Explorer pop-ups  
   - not completely free, requiring product key  
 - **Minor** <sup>non-negotiable</sup>
   - unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
@@ -24,14 +25,20 @@ So it's no surprise Windows is known for having its fair share of downsides:
 All of these drawbacks can be fixed with third-party tools.
 
 ---
+## GNU/Linux
+Meanwhile, some distros are for newly migrated users from Windows, some for competitive gamers, and some for power users, each with different desktop environments. So everyone's experience using GNU/Linux is vastly different. In addition, many corporations use it for their servers, so it has to be lightweight.
 
-Meanwhile, some distros are for newly migrated users from Windows, some for competitive gamers, some for power users, each with different desktop environments. So everyone's experience using GNU/Linux is vastly different. In addition, many corporations use it for their servers, so it has to be lightweight.
+- Because GNU/Linux (Unix-like) is extremely diverse and fundamentally different from Windows (MS-DOS), it can be challenging to fully embrace it, such as:
+  - navigating desktop environments
+  - understanding concepts like package managers and filesystem hierarchy
+  - doing common activities like installing/uninstalling apps and updating system via the terminal emulator
+  - learning system and admin tools that comes preinstalled or needed to be installed
 
-Because GNU/Linux (Unix-like) is extremely diverse and fundamentally different from Windows (MS-DOS), it can be challenging to fully embrace it, such as:
-- navigating desktop environments
-- understanding concepts like package managers and filesystem hierarchy
-- doing common activities like installing/uninstalling apps and updating system via the terminal emulator
-- learning system and admin tools that comes preinstalled or needed to be installed
+- I still use Windows 11 on my PC because:
+  - I have to research whether my PC is compatible with Linux, which distro to pick, and which alternative to download should software isn't available on Linux
+  - installing distro, configuring, setting up, and installing software takes up so much time, effort, patience and willpower
+  - all the hotkeys, directory structure, system applications, OS security and GUI on Linux are radically different to Windows
+  - I don't want to deal with driver issues on Linux, which is so time-consuming to diagnose and fix
 
 Here're some websites to get started:
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
@@ -39,4 +46,4 @@ Here're some websites to get started:
 
 ---
 
-P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**. It took only time, patience, and willpower.
+P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**.
