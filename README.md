@@ -3,21 +3,21 @@
 > Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
 
 ---
-
-**Major downsides of Windows 11:** <sup>negotiable</sup>
-- forced updates, generally buggy and not stable
-- some Settings and Control Panel configurations get reset after update installation  
-- bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
-- telemetry and spyware kicks in as soon as you connect to the internet  
-- resource hungry even at idle state  
-- limited UI customization and dark mode inconsistency in legacy menu like Control Panel and File Explorer pop-ups  
-- not completely free, requiring product key  
-
-**Minor downsides of Windows 11:** <sup>non-negotiable</sup>
-- unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
-- legacy components like Phone and Modem (from Windows 95/98), Windows Problem Reporting, and XP-era icons pulled from Shell32.dll  
-- half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
-- feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
+## Windows 11
+It's for everyone, from the casual home user to the office user to the competitive gamer to an IT admin. So everyone's experience using Windows 11 is relatively the same. In addition, many corporations use it, so it has to be backward compatible with old software. Because Windows 11 has to accommodate many needs, it's often unstable and buggy. So it's no surprise Windows is known for having its fair share of downsides:
+- **Major** <sup>negotiable</sup>
+  - forced updates
+  - some Settings and Control Panel configurations get reset after update installation  
+  - bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
+  - telemetry and spyware kicks in as soon as you connect to the internet  
+  - resource hungry even at idle state  
+  - limited UI customization and dark mode inconsistency in legacy menu like Control Panel and File Explorer pop-ups  
+  - not completely free, requiring product key  
+- **Minor** <sup>non-negotiable</sup>
+  - unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
+  - legacy components like Phone and Modem (from Windows 95/98), Windows Problem Reporting, and XP-era icons pulled from Shell32.dll  
+  - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
+  - feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
 
 ---
 
