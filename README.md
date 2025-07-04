@@ -2,6 +2,9 @@
 > [!NOTE]
 > Windows is abysmal to the point where I'm writing this in case I ever need to migrate to GNU/Linux once and for all.
 
+- [Windows 11](#windows-11)
+- [GNU/Linux](#gnu-linux)
+
 ---
 ## [Windows 11](https://github.com/nhantrichuyenanh/win-11-ofb "nhantrichuyenanh")
 It's for everyone, from the casual home user to the office user to the competitive gamer to an IT admin. So everyone's experience using Windows 11 is relatively the same. In addition, many corporations use it, so it has to be backward compatible with old software. Because Windows 11 has to accommodate many needs, it's often unstable and buggy.
