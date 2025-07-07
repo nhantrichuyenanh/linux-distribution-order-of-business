@@ -10,20 +10,18 @@
 It's for everyone, from the casual home user to the office user to the competitive gamer to an IT admin. So everyone's experience using Windows 11 is relatively the same. In addition, many corporations use it, so it has to be backward compatible with old software. Because Windows 11 has to accommodate many needs, it's often unstable and buggy.
 
 So it's no surprise Windows is known for having its fair share of downsides:
-- **Major** <sup>negotiable</sup>
-  - forced updates
-  - some Settings and Control Panel configurations get reset after update installation  
-  - bloatware and ads everywhere from File Explorer, Settings, Start Menu, to even occasional notifications  
+- **Major**:
+  - bloatware and ads everywhere
   - telemetry and spyware kicks in as soon as you connect to the internet  
   - resource hungry even at idle state  
   - limited UI customization
-  - dark mode inconsistency in legacy menus like Control Panel and File Explorer pop-ups  
+  - dark mode inconsistency
   - not completely free, requiring product key  
-- **Minor** <sup>non-negotiable</sup>
-  - unnecessary system/administrative tools such as Event Viewer, Reliability Monitor, and Task Scheduler only technical users like sysadmin use  
-  - legacy components like Phone and Modem (from Windows 95/98), Windows Problem Reporting, and XP-era icons pulled from Shell32.dll  
-  - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations (though Microsoft is making strides in migrating them to Settings)  
-  - feature duplications such as Disk Cleanup - Storage Sense, Run dialog - Windows Search, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - Windows Defender, etc...  
+- **Minor**:
+  - unnecessary preinstalled system/administrative tools only technical users use  
+  - legacy components like *Phone and Modem (from Windows 95/98)*, and *Windows Problem Reporting* for example
+  - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations <sup>though Microsoft is making strides in migrating them to Settings</sup>
+  - feature duplications such as *Disk Cleanup* - *Storage Sense*, *Run dialog* - *Windows Search*, [MSRT](https://wikipedia.org/wiki/Malicious_Software_Removal_Tool) - *Windows Defender*, etc...  
 
 All of these drawbacks can be fixed with third-party tools.
 
