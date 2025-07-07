@@ -31,16 +31,16 @@ Meanwhile, some distros are for newly migrated users from Windows, some for comp
 
 - Because GNU/Linux (Unix-like) is extremely diverse and fundamentally different from Windows (MS-DOS), it can be challenging to fully embrace it, such as:
   - navigating desktop environments
-  - understanding concepts like package managers and filesystem hierarchy
+  - understanding concepts like *package managers* and [FHS](https://wikipedia.org/wiki/Filesystem_Hierarchy_Standard "Wikipedia")
   - doing common activities like installing/uninstalling apps and updating system via the terminal emulator
   - learning system and admin tools that comes preinstalled or needed to be installed
 
 - I still use Windows 11 on my PC because:
-  - I have to research whether it is compatible with Linux, which distro to pick, and which alternative to download should software isn't available on Linux
+  - I have to research which distro to pick and which alternative to download should software isn't available on Linux
   - installing distro, configuring, setting up, and installing software takes up so much time, effort, patience and willpower
-  - all the hotkeys, directory structure, system applications, OS security and GUI on Linux are radically different to Windows
+  - all the hotkeys, directory structure, system applications, OS security, and GUI on Linux are radically different to Windows
   - I don't want to deal with driver issues on Linux, which is so time-consuming to diagnose and fix
-  - Windows 11 is fixable, so why bother switching to GNU/Linux in the first place?
+  - it is fixable, so why bother switching to GNU/Linux in the first place?
 
 Here're some websites to get started:
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
