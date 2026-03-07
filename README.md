@@ -47,6 +47,7 @@ Here're some websites to get started: (I personally peruse them so they're prett
 - [Linux explained](https://www.youtube.com/watch?v=vpdnMPDEBrg "Awesome")
 - [Linux Journey](https://labex.io/linuxjourney "labex.io")
 - [Ultimate Beginners Linux Ricing Guide](https://www.youtube.com/watch?v=CRLEfo_4X0M "Xigo")
+- [DistroSea](https://distrosea.com "basilky")
 ---
 
 P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**.
