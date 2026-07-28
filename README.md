@@ -15,6 +15,7 @@ So it's no surprise Windows is known for having its fair share of downsides:
   - telemetry and spyware kicks in as soon as you connect to the internet  
   - resource hungry even at idle state  
   - limited UI customization
+  - [UI inconsistencies](https://www.youtube.com/watch?v=O40bVf1zrxQ "BrenTech")
   - dark mode inconsistency <sup>after a decade, it's finally happening in build 26200.5751 (Dev) / 26120.5751 (Beta)</sup>
   - not completely free, requiring product key  
 - **Minor**:
